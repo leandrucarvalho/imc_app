@@ -22,7 +22,7 @@ git clone https://github.com/leandrucarvalho/imc_app
 ```
 2. Navegue até o diretório do projeto:   
 ```bash
-cd nome-do-seu-projeto
+cd imc_app
 ```
 3. Execute o aplicativo:
 ```bash
