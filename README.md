@@ -18,7 +18,7 @@ Este projeto consiste em uma aplicação Dart/Flutter que calcula o Índice de M
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/leandrucarvalho/imc_app
 ```
 2. Navegue até o diretório do projeto:   
 ```bash
