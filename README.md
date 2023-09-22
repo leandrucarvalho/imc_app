@@ -21,11 +21,11 @@ Este projeto consiste em uma aplicação Dart/Flutter que calcula o Índice de M
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 2. Navegue até o diretório do projeto:   
-```
+```bash
 cd nome-do-seu-projeto
 ```
 3. Execute o aplicativo:
-```
+```bash
 dart run
 ```
 4. Siga as instruções fornecidas para inserir os dados de peso e altura e calcular o IMC.
