@@ -2,7 +2,7 @@
 # Projeto de Cálculo de IMC
 
 Este projeto foi desenvolvido como parte de uma atividade do Bootcamp Santander na Digital Innovation One.
-Este projeto consiste em uma aplicação Dart/Flutter que calcula o Índice de Massa Corporal (IMC) com base nos valores de peso e altura fornecidos pelo usuário. Além disso, o projeto classifica o resultado do IMC em diferentes categorias de acordo com as recomendações padrão.
+Este projeto consiste em uma aplicação Dart que calcula o Índice de Massa Corporal (IMC) com base nos valores de peso e altura fornecidos pelo usuário. Além disso, o projeto classifica o resultado do IMC em diferentes categorias de acordo com as recomendações padrão.
 
 
 ## Funcionalidades
